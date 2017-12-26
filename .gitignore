@@ -1,0 +1,7 @@
+*.p
+image_classification.data-00000-of-00001
+cifar-10-batches-py/
+dataset/
+#.tar.gz
+cifar-10-python.tar.gz
+#.zip
